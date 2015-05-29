@@ -1,0 +1,24 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="rm20" />
+      <item value="rm30" />
+      <item value="rm32" />
+      <item value="rm4" />
+      <item value="rm45eap" />
+      <item value="rm45" />
+      <item value="rm50eap" />
+      <item value="rm50" />
+      <item value="rm54EAP" />
+      <item value="rm54" />
+      <item value="rm60EAP" />
+      <item value="rm60" />
+      <item value="rm65EAP" />
+      <item value="rm63" />
+      <item value="rm70EAP" />
+      <item value="rm70" />
+    </knownUpdateChannels>
+    <option name="LAST_TIME_CHECKED" value="1418333344859" />
+    <option name="LAST_BUILD_CHECKED" value="RM-139.365" />
+  </component>
+</application>

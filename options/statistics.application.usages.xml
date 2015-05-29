@@ -1,0 +1,81 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="jdbc-datasource">
+      <project id="bgov-legislation" values="MySQL/5.6.17-enterprise-commercial-advanced-log,MySQL/5.5.30" collectionTime="1432908112907" />
+    </group>
+    <group name="vcs">
+      <project id="Projects" values="Git" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="Git" collectionTime="0" />
+      <project id="search_resource" values="Git" collectionTime="0" />
+      <project id="bgov-legislation" values="Git" collectionTime="1432908112850" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="Projects" values="ruby-1.9.3-p125" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="ruby-2.0.0-p451" collectionTime="0" />
+      <project id="search_resource" values="ruby-2.0.0-p451" collectionTime="0" />
+      <project id="bgov-legislation" values="ruby-1.9.3-p125=9" collectionTime="1432908112905" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Projects" values="DEFAULT" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="DEFAULT" collectionTime="0" />
+      <project id="search_resource" values="DEFAULT" collectionTime="0" />
+      <project id="bgov-legislation" values="DEFAULT" collectionTime="1432908112907" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="spend_autocomplete_engine" values="RailsRunConfigurationType,RakeRunConfigurationType" collectionTime="0" />
+      <project id="bgov-legislation" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="1432908112850" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="Projects" values="plain ruby" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="rails unknown" collectionTime="0" />
+      <project id="search_resource" values="gem" collectionTime="0" />
+      <project id="bgov-legislation" values="plain ruby=2,rails 3.2=4,gem,rails 2.3,rails unknown" collectionTime="1432908112906" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="bgov-legislation" values="com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver" collectionTime="1432908112907" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="Projects" values="slop,method_source,rake,bundler,rdoc" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="bundler,rake" collectionTime="0" />
+      <project id="search_resource" values="bundler,rake" collectionTime="0" />
+      <project id="bgov-legislation" values="jasminerice=2,virtus,mail=6,logstash-event,stickler=2,little-plugger=2,zk,lockfile,coffee-filter,activeresource=6,rack=9,eventmachine=5,nokogiri=7,bcr=6,json-schema,bb_repository=4,rack-accept,grape,guard-rspec=5,net-http-persistent=2,bson_ext,rails2_asset_pipeline,wds,ruby-oci8=4,commands=2,unicorn=6,shotgun,axlsx,bgov_layout=45,people_places_things,bcrypt=2,people_data=3,websocket-rack=2,bgov_search_resource=7,http_parser.rb=2,open4,bgov-logger=3,closure-compiler,sexp_processor=2,bgov_shared_auth=15,main,mail_view,therubyracer=8,hiredis=4,connection_pool=2,jada-bmmr=6,rufus-scheduler,bb_news=2,devise-encryptable=5,bgov_search=15,mime-types=9,compass-rails=6,bgov-normalize=12,actionpack=7,em-websocket=4,datacenter,net-ssh-gateway=5,rspec-expectations=7,capistrano=5,actionview,regulation_data=4,debug_inspector=4,yui-compressor,jasmine-core=3,coderay=5,resque-job-stats,formatador=6,hoe,rspec-rails=8,roxml,bg_core_ext,jshint_on_rails=2,ruby_bas=5,passenger_monitor,rake=9,i18n=8,activerecord-oracle_enhanced-adapter=3,json_pure,rspec-support=2,nio4r,hike=7,http-cookie,redis-namespace=4,download_center_printing,macaddr,whenever=7,haml-rails=3,activejob,guard=5,sidekiq=2,sunspot,resque-scheduler,rspec-its=2,rb-fsevent=6,pry=8,factory_girl_rails=2,elastic_autocomplete=7,haml=5,minitest=2,twitter,jasmine-rails=2,activerecord=7,unf_ext=2,react-rails,crack,devise=5,agency_data=16,forgery,sunspot_rails,rack-rewrite,jammit,sinatra=6,bgov_events_client=2,search_resource=10,jada-bio=2,ruby_parser=2,execjs=15,bgov-god_enhancements=5,search_aggregations=6,sprockets=7,jada-finance=3,erubis=7,bas_stats,debugger-linecache=6,fssm=6,ruby-rc4,projector=3,tilt=7,htmlentities=2,twitter-text,bas_logging=6,method_source=5,activerecord-nulldb-adapter=4,sentimental,raindrops=5,oily_png=9,aaronh-chronic,listen=5,pdf-reader,notiffany,gherkin,css_parser,highline=7,interception=4,bb_domain_objects=8,resque-lock,jada-bbid,ref=5,rb-inotify=5,guard-jasmine=2,failover_dashboard,faraday=7,compass=5,redis-sentinel=3,flexmock,rspec-core=6,fast_blank,bgov_people_client=8,sprockets-helpers=2,faceted_search=2,safe_yaml,bspider,test-unit,zip-zip,polyglot=7,grb,fastercsv=3,table_print,request_store=2,journey=5,bgov_mobile=3,guard-compat,cuporter,capybara-mechanize-0.3.0.rc3,warden=5,app_version=6,selenium-webdriver=6,logstasher=2,bas_autocomplete=5,active_model_serializers=6,terminal-notifier-guard,octokit,parallel=4,netrc=2,mongrel,rack-mount,pry-rescue=4,activesupport=7,uglifier=7,bgov-util=8,bgov_freya,poltergeist=2,bgov-analytics=11,lobbying=6,timecop=2,bgov_typeahead_server,ruby-saml,rspec-activemodel-mocks,opportunity_autocomplete_engine=7,libv8=8,rspec-collection_matchers,celluloid=5,orm_adapter=5,cliver=2,columnize=7,rspec-mocks=6,coffee-script=5,simplecov-html=2,sawyer,sass-twitter-bootstrap=3,bundler,wicked_pdf=5,rack-cache=6,unf=2,ntlm-http=2,fnordmetric=3,bb_error_handling=4,log_w,better_errors=6,simple_oauth,bb_current_user=7,rails-html-sanitizer,debugger-pry=2,pry-stack_explorer=3,spend_data=17,encryptor=7,chronic=5,jbuilder,addressable=7,nested_layouts,rdoc=6,will_paginate=6,bgov_global_search=2,afm,hitimes=2,wirble=2,tzinfo=9,yajl-ruby=4,jada-eqs,state_machine=6,shellany,spend_autocomplete_engine=8,dupe,quiet_assets=3,bb_url_shortener=4,multipart-post=8,god=5,revo-ssl_requirement,POpen4,gem_plugin,slop=8,hashery,diff-lcs=6,rails=6,bb_avmm,wrong,canonix,guard-livereload=2,rvm-capistrano=5,sass=5,resque_unit,rack-static-auth,react-source,bgov_public,bson,binding_of_caller=4,rspec-html-matchers,awesome_print,rack-protection=5,loofah=4,logging=3,ri_cal,wkhtmltopdf-binary=4,geo=4,websocket-driver=2,Platform,sidekiq-unique-jobs,rspec-steps,git_remote_branch,hashie=8,json=7,rack-livereload=2,ttfunk,rest-client=6,values_for,debugger=9,factory_girl=3,net-sftp=5,bgov_news_client=4,trollop=2,childprocess=6,thin=7,acts_as_tree,systemu,coffee-script-source=9,RedCloth,actionmailer=7,phantomjs=4,shoulda-matchers,email_spec,vegas,debugger-ruby_core_source=10,premailer,chunky_png=12,faker=2,metrics_engine,rack-ssl=6,bgov_banners=6,timers=5,spork-rails,uuid,fakebas=2,kgio=6,webrobots=2,mechanize=2,domain_name=2,mailtrap,mysql2=6,globalid,rblineprof,minitest-check,predicated,mini_portile=3,bgov-sso,happymapper=3,docile,jada-email,net-ssh=8,rsolr,bsearch=2,premailer-rails,heartbeat=3,libbde,ffi=6,database_cleaner,sidekiq-failures,builder=7,multi_json=9,ruby-imagespec,lumberjack=6,treetop=5,bgov-excel,resque-cleaner,hierarchies=8,rails-deprecated_sanitizer,rack-director=6,bb-jasminerice,lograge,webmock,bg-sprockets-sass,excon,zookeeper,bgov-feeds,bb_email_form,haproxy_stats=5,coffee-rails=4,em-hiredis=4,backports=2,jquery-rails=4,ruby-prof=4,css-sprite-generator,sprockets-rails,arel=7,simplecov=2,vcr,railties=5,activemodel=6,resque,savon,sass-rails=4,news_search_resource=3,rails-dom-testing,api_provider=3,dalli=5,american_date=6,selenium-client,events_data,rack-coffee=6,jasmine=3,jada-news=2,faraday_middleware,bgov_bas,net-http-digest_auth=2,rack-test=7,quality_control_dashboard=2,net-scp=7,bgov-shoveit=2,libxml-ruby=6,pdfkit,daemons=5,thread_safe=2,spork=2,celluloid-io,has-bit-field,libwebsocket,bb_feature=6,subscribers=4,jada-mgmt,multi_xml,ruby2ruby,rspec=7,axlsx_rails,download_center,fast_xs,httpclient=7,redis=4,guard-spork=2,Ascii85,bcrypt-ruby=5,nenv,descendants_tracker,fakefs,xpath=4,datacenter2=25,jada=5,rack-mini-profiler,rubyzip=6,capybara=6,newrelic_rpm=8,pry-debugger=8,nokogumbo,thor=7,parallel_tests=3,rest-client-components,download_center_data=3,teaspoon=2,legislation_data=6,websocket=5" collectionTime="1432908112907" />
+    </group>
+    <group name="frameworks">
+      <project id="spend_autocomplete_engine" values="gem,RailsFacetType" collectionTime="0" />
+      <project id="search_resource" values="gem" collectionTime="0" />
+      <project id="bgov-legislation" values="gem,RailsFacetType" collectionTime="1432908112850" />
+    </group>
+    <group name="file-type">
+      <project id="Projects" values="SCSS,RHTML,XML,Ruby,YAML,CoffeeScript,SQL,DTD,JSON,PATCH,XHTML,Cucumber,RXML,ActionScript,C++,Rjs,PLAIN_TEXT,SASS,HAML,Images,JavaScript,ARCHIVE,RDOC,CSS,UNKNOWN,HTML,Slim,RNG Compact,Native,JSHint,Perl,LESS,Stylus" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="CoffeeScript,YAML,XHTML,XML,SCSS,DTD,C++,JavaScript,HAML,PLAIN_TEXT,Cucumber,JSON,SASS,RXML,RDOC,Slim,LESS,CSS,Images,RHTML,SQL,Ruby,RNG Compact,UNKNOWN,HTML" collectionTime="0" />
+      <project id="search_resource" values="Slim,RDOC,XML,C++,CoffeeScript,CSS,DTD,JSON,LESS,PLAIN_TEXT,Ruby,RHTML,HTML,JavaScript,RXML,Cucumber,HAML,UNKNOWN,XHTML,YAML,SCSS,SASS,Images,RNG Compact" collectionTime="0" />
+      <project id="bgov-legislation" values="Native,CoffeeScript,ARCHIVE,SQLite Database,HTML,Less,XHTML,SourceMap,PLAIN_TEXT,CSS,XML,plist,ActionScript,C++,DATASOURCE_STORAGE,Ruby,UNKNOWN,Sass,HAML,SQL,PATCH,SCSS,DTD,Rjs,RHTML,Cucumber,Images,RDOC,Stylus,JSHint,RNG Compact,JSON,ESLint,Slim,RXML,IDL,YAML,JavaScript" collectionTime="1432908112905" />
+    </group>
+    <group name="module type">
+      <project id="Projects" values="RUBY_MODULE" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="RUBY_MODULE" collectionTime="0" />
+      <project id="search_resource" values="RUBY_MODULE" collectionTime="0" />
+      <project id="bgov-legislation" values="RUBY_MODULE" collectionTime="1432908112850" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Projects" values="Project,Project" collectionTime="0" />
+      <project id="spend_autocomplete_engine" values="Project,Project" collectionTime="0" />
+      <project id="search_resource" values="Project,Project" collectionTime="0" />
+      <project id="bgov-legislation" values="Project,Project" collectionTime="1432908112907" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="183" />
+      <entry feature="ide.settings.CSS" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.File_Colors" count="2" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Ruby" count="1" />
+      <entry feature="ide.settings.Scopes" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="118" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,48 @@
+<application>
+  <component name="DimensionService">
+    <location key="Github.CreateGistDialog.2560.0.2560.1440" x="3672" y="627" />
+    <location key="findTextDialog.2560.0.2560.1440" x="3634" y="493" />
+    <location key="OptionsEditor.2560.0.2560.1440" x="3213" y="201" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.2560.0.2560.1440" x="3678" y="359" />
+    <location key="DiffWindow.2560.0.2560.1440" x="75" y="126" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.2560.0.2560.1440" x="70" y="120" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.2560.0.2560.1440" x="3581" y="624" />
+    <location key="OptionsEditor.0.0.2560.1440" x="908" y="507" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="926" y="387" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="3840" y="707" />
+    <location key="VCS.ChangeListViewerDialog.2560.0.2560.1440" x="2761" y="427" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.2560.0.2560.1440" x="3556" y="534" />
+    <location key="#com.intellij.ide.util.MemberChooser.2560.0.2560.1440" x="3653" y="450" />
+    <location key="dock-window-1.2560.0.2560.1440" x="2731" y="41" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.2560.0.2560.1440" x="2660" y="122" />
+    <location key="ProcessPopupWindow.2560.0.2560.1440" x="4475" y="1163" />
+    <location key="WELCOME_SCREEN.2560.0.2560.1440" x="3839" y="300" />
+    <location key="EditParametersPopupWindow.2560.0.2560.1440" x="3527" y="609" />
+    <location key="dock-window-2.2560.0.2560.1440" x="410" y="22" />
+    <location key="#Updates.2560.0.2560.1440" x="3451" y="627" />
+    <location key="CommitChangelistDialog2.2560.0.2560.1440" x="3494" y="440" />
+    <location key="replaceTextDialog.2560.0.2560.1440" x="3631" y="461" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.2560.0.2560.1440" x="3304" y="392" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" x="70" y="120" />
+    <location key="DiffContextDialog.2560.0.2560.1440" x="2919" y="81" />
+    <location key="SettingsEditor.2560.0.2560.1440" x="3321" y="382" />
+    <size key="javadoc.popup.2560.0.2560.1440" width="600" height="419" />
+    <size key="DiffWindow.2560.0.2560.1440" width="2360" height="1214" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.2560.0.2560.1440" width="2360" height="1214" />
+    <size key="dock-window-1.2560.0.2560.1440" width="2150" height="1418" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.2560.0.2560.1440" width="2360" height="1214" />
+    <size key="ProcessPopupWindow.2560.0.2560.1440" width="640" height="175" />
+    <size key="dock-window-2.2560.0.2560.1440" width="2150" height="1414" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="2360" height="1214" />
+    <size key="DiffContextDialog.2560.0.2560.1440" width="2360" height="1240" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="129" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="dock-window-2" state="0" />
+  </component>
+</application>
